@@ -1,0 +1,15 @@
+# AI Multi-Agent Debate System - Dependencies
+# Install with: pip install -r requirements.txt
+
+# OpenAI Python SDK (required)
+openai>=1.0.0
+
+# Environment variable management (optional but recommended)
+python-dotenv>=1.0.0
+
+# Rich terminal output (optional - for enhanced UI)
+rich>=13.0.0
+
+# For development / testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
